@@ -1,0 +1,59 @@
+{
+  "items": [{
+    "itemId": 10321681,
+    "parentItemId": 10321681,
+    "name": "R Condensed Soup, Cheddar Cheese, 10.75 Oz",
+    "salePrice": 2.29,
+    "upc": "051000014771",
+    "categoryPath": "Food/Soups",
+    "shortDescription": "We make great soups that taste delicious and nourish you and your family. Whether you're cooking dinner with one of our Great for Cooking soups or eating one of our Classic Favorites, there's something for everyone to enjoy! To create our delicious Campbell's Condensed soups, our chefs simply add less water right from the start, so there's more room for flavor. We start with quality ingredients and cook them to perfection. Easily recognized by the familiar red and white can, Campbell's Condensed soups have always been a staple in American pantries.",
+    "longDescription": "R Condensed Soup, Cheddar Cheese, 10.75 Oz",
+    "brandName": "Campbell's",
+    "thumbnailImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+    "mediumImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+    "largeImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "productTrackingUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=https%253A%252F%252Fwww.walmart.com%252Fip%252FR-W-Condensed-Soup-Cheddar-Cheese-10-75-Oz%252F10321681%253Faffp1%253DNeZuvVkDYOCmNVNVS2k0my9lP0P-pQzXEYdzCLcWRa4%2526affilsrc%253Dapi",
+    "ninetySevenCentShipping": false,
+    "standardShipRate": 5.99,
+    "size": "Net wt 10.75 oz10.75 oz",
+    "color": "10.7500",
+    "marketplace": false,
+    "shipToStore": true,
+    "freeShipToStore": true,
+    "modelNumber": "1477",
+    "productUrl": "http://c.affil.walmart.com/t/api03?l=https%3A%2F%2Fwww.walmart.com%2Fip%2FR-W-Condensed-Soup-Cheddar-Cheese-10-75-Oz%2F10321681%3Faffp1%3DNeZuvVkDYOCmNVNVS2k0my9lP0P-pQzXEYdzCLcWRa4%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+    "customerRating": "4.813",
+    "customerRatingImage": "http://i2.walmartimages.com/i/CustRating/4_8.gif",
+    "categoryNode": "976759_1001359",
+    "bundle": false,
+    "clearance": false,
+    "stock": "Not available",
+    "attributes": {
+      "pesticideInd": "N",
+      "ppuQty": "10.7500",
+      "size": "Net wt 10.75 oz"
+    },
+    "addToCartUrl": "http://c.affil.walmart.com/t/api03?l=http%3A%2F%2Faffil.walmart.com%2Fcart%2FaddToCart%3Fitems%3D10321681%7C1%26affp1%3DNeZuvVkDYOCmNVNVS2k0my9lP0P-pQzXEYdzCLcWRa4%26affilsrc%3Dapi%26veh%3Daff%26wmlspartner%3Dreadonlyapi",
+    "affiliateAddToCartUrl": "http://linksynergy.walmart.com/fs-bin/click?id=|LSNID|&offerid=223073.7200&type=14&catid=8&subid=0&hid=7200&tmpid=1082&RD_PARM1=http%253A%252F%252Faffil.walmart.com%252Fcart%252FaddToCart%253Fitems%253D10321681%257C1%2526affp1%253DNeZuvVkDYOCmNVNVS2k0my9lP0P-pQzXEYdzCLcWRa4%2526affilsrc%253Dapi",
+    "freeShippingOver50Dollars": true,
+    "imageEntities": [{
+      "thumbnailImage": "https://i5.walmartimages.com/asr/e8df8d2a-a0b1-41fd-8cd7-2ea70697411c_1.89f67097058281b5e636e5ab6a7324b2.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+      "mediumImage": "https://i5.walmartimages.com/asr/e8df8d2a-a0b1-41fd-8cd7-2ea70697411c_1.89f67097058281b5e636e5ab6a7324b2.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+      "largeImage": "https://i5.walmartimages.com/asr/e8df8d2a-a0b1-41fd-8cd7-2ea70697411c_1.89f67097058281b5e636e5ab6a7324b2.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "entityType": "SECONDARY"
+    }, {
+      "thumbnailImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+      "mediumImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+      "largeImage": "https://i5.walmartimages.com/asr/1f2353da-8c8b-4188-b9d1-a6d14edfb553_1.887deffee864d3389ecc9a71554fa0a4.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "entityType": "PRIMARY"
+    }, {
+      "thumbnailImage": "https://i5.walmartimages.com/asr/bf2319a0-7db2-41a5-af7e-68b15932e6e0_1.64bb98f6a12d17b977152669e706e408.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+      "mediumImage": "https://i5.walmartimages.com/asr/bf2319a0-7db2-41a5-af7e-68b15932e6e0_1.64bb98f6a12d17b977152669e706e408.jpeg?odnHeight=180&odnWidth=180&odnBg=FFFFFF",
+      "largeImage": "https://i5.walmartimages.com/asr/bf2319a0-7db2-41a5-af7e-68b15932e6e0_1.64bb98f6a12d17b977152669e706e408.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+      "entityType": "SECONDARY"
+    }],
+    "offerType": "ONLINE_AND_STORE",
+    "isTwoDayShippingEligible": false,
+    "availableOnline": false
+  }]
+}

@@ -1,0 +1,11 @@
+{
+  "_id": {
+    "$oid": "5a07b0b2f36d28769280c2c5"
+  },
+  "displayName": "Beverages",
+  "description": "water, beer, wine, soft drinks, etc",
+  "systemCategory": true,
+  "userID": "12345",
+  "catColor": "#338844",
+  "datecreated": "1489345015635"
+}

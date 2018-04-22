@@ -1,0 +1,116 @@
+[
+    {
+        "_id": {
+            "$oid": "5a8474f1288944198e83c551"
+        },
+        "item_ids": [
+            {
+                "_id": {
+                    "$oid": "5a8474f1288944198e83c552"
+                },
+                "source": "walmart",
+                "id": "2403317"
+            }
+        ],
+        "item_description_short": "&quot;The baby tub that doesn't get you in hot water. You can be sure the bath water is just right for your baby without constant testing and guessing. Munchkin's award-winning inflatable tub has a special White Hot dot that turns white when the water is too hot, then turns blue when it's just right. The adorable ducky tub has a contoured headrest and is fully padded for your baby's total comfort. Even the beak squeaks to keep your baby entertained. Features: Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily Awards: Dr. Toy Best Vacation Children's Product Award Ages: 6 - 24 months &quot;",
+        "item_description_long": "&quot;Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily &quot;",
+        "price_history": [],
+        "dateAdded": {
+            "$date": "2018-02-14T17:42:09.211Z"
+        },
+        "updateHistory": [],
+        "updateBy": [],
+        "upc": "735282322013",
+        "item_name": "Munchkin White Hot Inflatable Duck Tub",
+        "price": 11.99,
+        "price_msrp": 19.99,
+        "imp_size": "1 tub1",
+        "walmartCategoryPath": "Baby/Health & Safety/Baby Bath/Baby Tubs",
+        "brand_name": "Munchkin",
+        "image_thumbnail": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=100&odnWidth=100&odnBg=ffffff",
+        "image_large": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "__v": 0,
+        "created_at": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        },
+        "updatedAt": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5a8474f1288944198e83c551"
+        },
+        "item_ids": [
+            {
+                "_id": {
+                    "$oid": "5a8474f1288944198e83c552"
+                },
+                "source": "walmart",
+                "id": "2403317"
+            }
+        ],
+        "item_description_short": "&quot;The baby tub that doesn't get you in hot water. You can be sure the bath water is just right for your baby without constant testing and guessing. Munchkin's award-winning inflatable tub has a special White Hot dot that turns white when the water is too hot, then turns blue when it's just right. The adorable ducky tub has a contoured headrest and is fully padded for your baby's total comfort. Even the beak squeaks to keep your baby entertained. Features: Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily Awards: Dr. Toy Best Vacation Children's Product Award Ages: 6 - 24 months &quot;",
+        "item_description_long": "&quot;Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily &quot;",
+        "price_history": [],
+        "dateAdded": {
+            "$date": "2018-02-14T17:42:09.211Z"
+        },
+        "updateHistory": [],
+        "updateBy": [],
+        "upc": "735282322013",
+        "item_name": "Munchkin White Hot Inflatable Duck Tub",
+        "price": 11.99,
+        "price_msrp": 19.99,
+        "imp_size": "1 tub1",
+        "walmartCategoryPath": "Baby/Health & Safety/Baby Bath/Baby Tubs",
+        "brand_name": "Munchkin 2",
+        "image_thumbnail": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=100&odnWidth=100&odnBg=ffffff",
+        "image_large": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "__v": 0,
+        "created_at": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        },
+        "updatedAt": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "5a8474f1288944198e83c551"
+        },
+        "item_ids": [
+            {
+                "_id": {
+                    "$oid": "5a8474f1288944198e83c552"
+                },
+                "source": "walmart",
+                "id": "2403317"
+            }
+        ],
+        "item_description_short": "&quot;The baby tub that doesn't get you in hot water. You can be sure the bath water is just right for your baby without constant testing and guessing. Munchkin's award-winning inflatable tub has a special White Hot dot that turns white when the water is too hot, then turns blue when it's just right. The adorable ducky tub has a contoured headrest and is fully padded for your baby's total comfort. Even the beak squeaks to keep your baby entertained. Features: Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily Awards: Dr. Toy Best Vacation Children's Product Award Ages: 6 - 24 months &quot;",
+        "item_description_long": "&quot;Textured bottom so baby won't slipCan be used on the counter or in the tubGreat for travel - deflates and folds easily &quot;",
+        "price_history": [],
+        "dateAdded": {
+            "$date": "2018-02-14T17:42:09.211Z"
+        },
+        "updateHistory": [],
+        "updateBy": [],
+        "upc": "735282322013",
+        "item_name": "Munchkin White Hot Inflatable Duck Tub",
+        "price": 11.99,
+        "price_msrp": 19.99,
+        "imp_size": "1 tub1",
+        "walmartCategoryPath": "Baby/Health & Safety/Baby Bath/Baby Tubs",
+        "brand_name": "Wicked Game",
+        "image_thumbnail": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=100&odnWidth=100&odnBg=ffffff",
+        "image_large": "https://i5.walmartimages.com/asr/9357f491-26b4-44d4-b955-520998ef41c9_1.5a25bf73cbaa85a58b6368d1e3038183.png?odnHeight=450&odnWidth=450&odnBg=ffffff",
+        "__v": 0,
+        "created_at": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        },
+        "updatedAt": {
+            "$date": "2018-02-14T17:42:10.738Z"
+        }
+    }
+]
